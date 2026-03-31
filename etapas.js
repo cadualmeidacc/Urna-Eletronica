@@ -19,6 +19,14 @@ let etapas = [
                     {url:'avatar.png', legenda: 'Vereador'}
                 ]
             },
+             {
+                numero: '77333',
+                nome: 'Daniele da Cunha Mota',
+                partido: 'DAN',
+                fotos: [
+                    {url:'avatar.png', legenda: 'Vereador'}
+                ]
+            },
         ]
     },
     {
